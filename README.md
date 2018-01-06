@@ -1,41 +1,23 @@
----
-layout: default
----
+# [](#header-1)Physics and Simulations
 
-## Welcome to GitHub Pages
+Within this repo is all the work I did for the Physics and Simulations class I followed at the end of my second semester. I'll add in a small section for each excersize. All of these excersizes were built within XNA.
+Almost all of these excersizes were completed on stream. These are at the bottom of each pdf.
 
-You can use the [editor on GitHub](https://github.com/TDSrock/Phy-sim-repo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#### [](#header-4)Bouncing
+Find my answers pdf [HERE](SIMULATION%20%26%20PHYSICS%20–%20PRACTICAL%201.pdf)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### [](#header-4)Movement
+Find my answers pdf [HERE](SIMULATION%20%26%20PHYSICS%20–%20PRACTICAL%202.pdf)
 
-### Markdown
+#### [](#header-4)Steering
+Find my answers pdf [HERE](SIMULATION%20%26%20PHYSICS%20–%20PRACTICAL%203.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### [](#header-4)Collision
+Find my answers pdf [HERE](SIMULATION%20%26%20PHYSICS%20–%20PRACTICAL%204.pdf)
 
-```markdown
-Syntax highlighted code block
+#### [](#header-4)Collision (again)
+Find my answers pdf [HERE](SIMULATION%20%26%20PHYSICS%20–%20PRACTICAL%205.pdf)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TDSrock/Phy-sim-repo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### [](#header-4)Transformations
+Find my answers pdf [HERE](SIMULATION%20%26%20PHYSICS%20–%20PRACTICAL%206.pdf)
+I know that the version shown at the end on this excersize was not my final version. If I can find it I will update this section to add it in.(aswell as adding it into the repository.)
